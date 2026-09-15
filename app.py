@@ -1,2 +1,2 @@
 def login():
-    print("User login successful")
+    print("Welcome User")
